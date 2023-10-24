@@ -4,7 +4,7 @@
   "primary_color": "#482973",
   "theme": {
     "bootswatch": "minty",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#482973",
   "repository": "ecomplus-stores/adequimb2b",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon-adequim-b2b.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ee3042",
+  "secondary_color": "#3cb4e7",
   "icon": "/img/uploads/logo-adequim-google-ads-white-1000-500.png",
   "store_id": 51467,
   "description": "A Adequim B2B é um site exclusivo para Pessoa Jurídica (CNPJ).",
