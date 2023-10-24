@@ -16,7 +16,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/removedores?Removedores",
+      "/impermeabilizantes?Impermeabilizantes",
+      "/antimofos?Antimofos"
+    ],
     "random": 6,
     "full_width": false
   },
