@@ -1,5 +1,5 @@
 {
-  "domain": "adequimb2b.netlify.app",
+  "domain": "atacado.adequim.com.br",
   "currency_symbol": "R$",
   "primary_color": "#482973",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#482973",
   "repository": "ecomplus-stores/adequimb2b",
   "logo": "/img/uploads/logo-adequim-b2b.png",
-  "name": "adequimb2b",
+  "name": "Adequim B2B",
   "short_name": "Adequim B2B",
   "lang": "pt_br",
   "currency": "BRL",
