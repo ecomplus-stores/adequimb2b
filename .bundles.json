@@ -1,28 +1,28 @@
 {
   "assetsByChunkName": {
-    "vendors~app-account~app-checkout~app-confirmation~app-order": "chunk.ef4d997c058e4a71e9d6.js",
-    "vendors~app-account~app-confirmation~app-order": "chunk.76466bc5fe7b5fab5a6d.js",
-    "vendors~app-account~app-checkout": "chunk.af6da56f96ce51beef92.js",
-    "vendors~app-cart~app-checkout": "chunk.a21dffca0f7bf885570f.js",
+    "vendors~app-account~app-checkout~app-confirmation~app-order": "chunk.305ee0962f9bdca3859e.js",
+    "vendors~app-account~app-confirmation~app-order": "chunk.2fc3b4d6265dc0558b68.js",
+    "vendors~app-account~app-checkout": "chunk.a9dc570b3674d79c3957.js",
+    "vendors~app-cart~app-checkout": "chunk.41b313ad27c904d91ebf.js",
     "admin": [
-      "admin.f434dc50cfcdad3d50fc.js",
-      "admin.f434dc50cfcdad3d50fc.js.map"
+      "admin.f88a94c7a39b142961a6.js",
+      "admin.f88a94c7a39b142961a6.js.map"
     ],
-    "app-account": "chunk.f15acfc2b92f9fd94161.js",
-    "app-cart": "chunk.9c646b8f1bde9e20492c.js",
-    "app-checkout": "chunk.ac6359ba9ad370e2cbb4.js",
-    "app-confirmation": "chunk.a213710c99599045e778.js",
-    "app-order": "chunk.fd358bd476a9fb0e88ca.js",
+    "app-account": "chunk.8b023355fec8cdf4a278.js",
+    "app-cart": "chunk.43eec396c4d0f111a307.js",
+    "app-checkout": "chunk.f0eab4a8f34f43ca62bc.js",
+    "app-confirmation": "chunk.6550dc04fe19b258ba57.js",
+    "app-order": "chunk.b76742790f18aead9607.js",
     "checkout": [
-      "checkout.2c192007bf831c9b2569.js",
-      "checkout.2c192007bf831c9b2569.js.map"
+      "checkout.06460e24ba56547c2b72.js",
+      "checkout.06460e24ba56547c2b72.js.map"
     ],
     "storefront": [
       "storefront.a167eff4c3da740e85f2.css",
-      "storefront.a12ebc2e767cf6b880f2.js",
+      "storefront.ef4febc94621eff7459d.js",
       "storefront.a167eff4c3da740e85f2.css.map",
-      "storefront.a12ebc2e767cf6b880f2.js.map"
+      "storefront.ef4febc94621eff7459d.js.map"
     ],
-    "vendors~app-cart": "chunk.a97816bcefb675647fe9.js"
+    "vendors~app-cart": "chunk.0971b6216e7d2d96f4aa.js"
   }
 }
