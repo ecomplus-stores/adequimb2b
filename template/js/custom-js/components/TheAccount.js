@@ -94,6 +94,10 @@ import {
   
       nickname () {
         return getNickname(this.customer)
+      },
+
+      check () {
+        return this.ecomPassport.getCustomer()
       }
     },
   
@@ -137,6 +141,7 @@ import {
         const endpoint = `https://passport.e-com.plus/v1/${$ecomConfig.get('store_id')}/signup.json`
         axios.post(endpoint, this.localCustomer).then(() => {
           this.isAccountCreated = true
+          this.isLogged = false
         })
       }
     },
