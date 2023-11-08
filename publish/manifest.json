@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d9bd57749ea4be1b432e4f17b33f43a0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b23d74e97905627032ce6ac7d887cd79.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e58cc60d01d7e605df9da48c3b540588.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9705ac122f8cbe88df2947e3b2d077cd.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c608d7929efb1d06b33e302bec099914.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Adequim B2B",
+  "short_name": "Adequim B2B",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Adequim B2B é um site exclusivo para Pessoa Jurídica (CNPJ).",
+  "background_color": "#482973",
+  "theme_color": "#482973"
+}
