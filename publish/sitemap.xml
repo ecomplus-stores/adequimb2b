@@ -44,6 +44,12 @@
     </url>
   
     <url>
+      <loc>https://atacado.adequim.com.br/adequim</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://atacado.adequim.com.br/removedores</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -57,12 +63,6 @@
   
     <url>
       <loc>https://atacado.adequim.com.br/antimofos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://atacado.adequim.com.br/adequim</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
